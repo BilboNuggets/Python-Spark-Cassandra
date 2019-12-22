@@ -7,7 +7,7 @@ For installing python 3 & cassandra please refer to these links
 ### Cassandra http://cassandra.apache.org/download/
 
 ### Spark
-1-Download the latest version of spark through their website.
+1-Download the latest version of spark through their website.<br>
 2-Install Scala 2.11 (because of the pyspark-cassandra-connecter only supports 2.11 and below versions).<br>
 3-Spark installation https://www.santoshsrinivas.com/installing-apache-spark-on-ubuntu-16-04/ <br>
 4-Install pyspark and integrate it with eclipse: http://stackoverflow.com/questions/33326749/pyspark-in-eclipse-using-pydev
